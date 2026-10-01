@@ -37,5 +37,5 @@ Peeper
 Robot
 ![Screenshot1](image-link)
 
-Bonus 1: 10+ Exhibitions
+### Bonus 1: 10+ Exhibitions
 ![Screenshot3](image-link)
