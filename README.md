@@ -1,5 +1,5 @@
 # CSC 461/592 – Assignment 2 VR
-Museum
+Portfolio Museum of Christopher Alewel and Julie Jimenez
 ## Team
 Christopher Alewel and Julie Jimenez
 ## VR Museum
